@@ -65,6 +65,10 @@ nav ul li a{
   font-size: 18px;
 }
 
+nav ul li a:hover{
+  color: var(--coloraccent);
+}
+
 .btn{
   color: var(--colorsecondary);
   background-color: var(--coloraccent);
