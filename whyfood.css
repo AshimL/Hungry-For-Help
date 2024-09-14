@@ -134,7 +134,7 @@ nav ul li a:hover{
 /* Content */
 
 .content{
-  background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url(images/whyfoodwaste.jpg);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url(images/whyfoodwastecompressed.jpg);
   width: 100%;
   height: 70vh;
   margin-bottom: 0px;
